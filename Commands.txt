@@ -17,6 +17,8 @@ wenn ich anonym Clone
  git add <Name des Files> 
  git add Testfile 
 
+ Fachbegriff ist "staging" oder "stage-n"
+
 # Mehrere Änderungen hinzufügen 
  git add .
 
@@ -38,4 +40,6 @@ wenn ich anonym Clone
  git pull 
 
 # Weitere Änderung
+
+
 
