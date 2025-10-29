@@ -1,0 +1,20 @@
+# Initial 
+ git clone <repository> 
+
+wenn das meine Repo ist 
+ git clone <ssh repo> -> git@github.com:dev-foo-bar/examples.git
+ git clone  git@github.com:dev-foo-bar/examples.git
+
+wenn ich anonym Clone 
+ git clone <https> -> https://github.com/dev-foo-bar/examples.git
+ git glone https://github.com/dev-foo-bar/examples.git
+
+
+# File / Änderung im File hinzufügen 
+
+ git add <Name des Files> 
+ git add Testfile 
+
+# Mehrere Änderungen hinzufügen 
+ git add .
+
