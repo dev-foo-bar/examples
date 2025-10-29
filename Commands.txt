@@ -12,7 +12,7 @@ wenn ich anonym Clone
 
 # File / Änderung im File hinzufügen 
 
- Änderungen sind: neue Datei, Datei verändert
+ Änderungen sind: neue Datei, Datei verändert, Datei löschen 
 
  git add <Name des Files> 
  git add Testfile 
@@ -20,7 +20,19 @@ wenn ich anonym Clone
 # Mehrere Änderungen hinzufügen 
  git add .
 
-# Datei
+# Änderungen finalisieren 
+
+ git commit
+
+ oder 
+
+ git commit -m "nachricht" 
 
 
-# 
+# Änderungen auf die Remote-Repository "schieben"
+
+ git push 
+
+# Änderungen von der Remote-Repository "holen"
+
+ git pull 
