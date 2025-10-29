@@ -12,9 +12,15 @@ wenn ich anonym Clone
 
 # File / Änderung im File hinzufügen 
 
+ Änderungen sind: neue Datei, Datei verändert
+
  git add <Name des Files> 
  git add Testfile 
 
 # Mehrere Änderungen hinzufügen 
  git add .
 
+# Datei
+
+
+# 
