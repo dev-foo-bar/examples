@@ -36,3 +36,6 @@ wenn ich anonym Clone
 # Änderungen von der Remote-Repository "holen"
 
  git pull 
+
+# Weitere Änderung
+
